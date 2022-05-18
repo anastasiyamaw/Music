@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">Music</string>
+    <string name="app_name">MusicMi</string>
+    <string name="sigh_in">Войти</string>
+    <string name="sigh_up">Регистрация</string>
+    <string name="login">Логин</string>
+    <string name="email">E-mail</string>
+    <string name="password">Пароль</string>
+    <string name="reppassword">Повторить пароль</string>
+    <string name="accept">Согласен с правилами</string>
+    <string name="register">Зарегистрироваться</string>
+    <string name="log_in">Войти</string>
+    <string name="log_out">Выйти</string>
+
 </resources>
+
